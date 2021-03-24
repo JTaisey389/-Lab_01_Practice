@@ -91,39 +91,39 @@ p {
 
 @media (min-width: 830px) {
   div:nth-child(1) {
-    background-color: #387780;
+    background-color: #FAA275;
     border-radius: 10px;
   }
   div:nth-child(2) {
-    background-color: #757780;
+    background-color: #FF8C61;
     border-radius: 10px;
   }
   div:nth-child(3) {
-    background-color: #1E352F;
+    background-color: #CE6A85;
     border-radius: 10px;
   }
   div:nth-child(4) {
-    background-color: #335145;
+    background-color: #985277;
     border-radius: 10px;
   }
   div:nth-child(5) {
-    background-color: #A7D3A6;
+    background-color: #5C374C;
     border-radius: 10px;
   }
   div:nth-child(6) {
-    background-color: #CFE795;
+    background-color: #453750;
     border-radius: 10px;
   }
   div:nth-child(7) {
-    background-color: #8D86C9;
+    background-color: #3F88C5;
     border-radius: 10px;
   }
   div:nth-child(8) {
-    background-color: #F7EF81;
+    background-color: #215A84;
     border-radius: 10px;
   }
   div:nth-child(9) {
-    background-color: #D4C685;
+    background-color: #032B43;
     border-radius: 10px;
   }
 }
