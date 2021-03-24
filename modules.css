@@ -1,0 +1,15 @@
+div {
+  display: flex;
+  justify-content: center;
+}
+body {
+  display: grid;
+  grid-template-columns: 260px 260px;
+  grid-template-rows: 85px 160px 135px 135px 260px 260px 95px;
+  margin: 15px;
+  padding: 10px;
+}
+p {
+  display: flex;
+  align-items: center;
+}
